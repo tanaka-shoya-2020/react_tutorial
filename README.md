@@ -1,2 +1,2 @@
-# react_tutorial
+# javascript_tutorial
 Created with CodeSandbox
